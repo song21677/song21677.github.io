@@ -106,7 +106,7 @@ analytics:
 author:
   name             : # "송이"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발 공부 기록장입니다 ^O^"
+  bio              : "항상 까먹는... 저를 위한 메모장입니다."
   location         : "South Korea"
   email            : # "song21677@naver.com"
   links:
