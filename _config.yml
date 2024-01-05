@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "쏭로그"
+title                    : "끄적끄적"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : # "Your Name"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "송이"
+  name             : # "송이"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발 공부 기록장입니다 ^O^"
   location         : "South Korea"
-  email            : "song21677@naver.com"
+  email            : # "song21677@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "깃허브"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/song21677"
+      url: #"https://github.com/song21677"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/song21677"
+      url: #"https://github.com/song21677"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
